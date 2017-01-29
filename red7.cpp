@@ -1,7 +1,3 @@
-//
-// Created by derek on 29/01/17.
-//
-
 #include "red7.h"
 
 namespace red7 {

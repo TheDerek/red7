@@ -1,7 +1,3 @@
-//
-// Created by derek on 29/01/17.
-//
-
 #ifndef RED7_RED7_H
 #define RED7_RED7_H
 
@@ -26,7 +22,7 @@ namespace red7 {
 
     /**
      * Get the Card instance for a specific card.
-     * @param number The number of the card, 0-6
+     * @param number The number of the card, 1-7
      * @param colour The colour of the card, 0-6
      * @return The Card instance with the given values.
      */
